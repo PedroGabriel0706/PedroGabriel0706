@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PedroGabriel0706
+- 👀 I’m interested in new languages
+- 🌱 I’m currently learning javascript and scratch
+- 💞️ I’m looking to collaborate on schedole
+- 📫 How to reach me pedro.patene@escola.pr.gov.br
